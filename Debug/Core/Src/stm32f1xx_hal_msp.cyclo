@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ../Core/Src/stm32f1xx_hal_msp.c:62:6:HAL_MspInit	1
+=======
+../Core/Src/stm32f1xx_hal_msp.c:62:6:HAL_MspInit	1
+>>>>>>> 2eb00ea5ac3921b566e9697f04ed74aca8dbdcc0
