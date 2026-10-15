@@ -1,0 +1,11 @@
+../Core/Src/main.c:68:6:MotorIzq_Adelante	16	static
+../Core/Src/main.c:78:6:MotorIzq_Atras	16	static
+../Core/Src/main.c:87:6:MotorIzq_Detener	8	static
+../Core/Src/main.c:97:6:MotorDer_Adelante	16	static
+../Core/Src/main.c:107:6:MotorDer_Atras	16	static
+../Core/Src/main.c:116:6:MotorDer_Detener	8	static
+../Core/Src/main.c:128:5:main	8	static
+../Core/Src/main.c:213:6:SystemClock_Config	72	static
+../Core/Src/main.c:253:13:MX_TIM2_Init	48	static
+../Core/Src/main.c:306:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:341:6:Error_Handler	4	static,ignoring_inline_asm
