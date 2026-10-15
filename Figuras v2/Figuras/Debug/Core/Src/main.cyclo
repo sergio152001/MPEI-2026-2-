@@ -1,0 +1,13 @@
+../Core/Src/main.c:79:6:MotorIzq_Adelante	1
+../Core/Src/main.c:85:6:MotorIzq_Atras	1
+../Core/Src/main.c:91:6:MotorIzq_Detener	1
+../Core/Src/main.c:97:6:MotorDer_Adelante	1
+../Core/Src/main.c:103:6:MotorDer_Atras	1
+../Core/Src/main.c:109:6:MotorDer_Detener	1
+../Core/Src/main.c:121:5:main	4
+../Core/Src/main.c:228:6:SystemClock_Config	3
+../Core/Src/main.c:261:13:MX_TIM2_Init	3
+../Core/Src/main.c:296:13:MX_TIM3_Init	5
+../Core/Src/main.c:335:13:MX_TIM4_Init	3
+../Core/Src/main.c:370:13:MX_GPIO_Init	1
+../Core/Src/main.c:399:6:Error_Handler	1
