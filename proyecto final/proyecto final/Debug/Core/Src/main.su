@@ -1,0 +1,12 @@
+../Core/Src/main.c:57:13:MotorA_Adelante	16	static
+../Core/Src/main.c:64:13:MotorA_Atras	16	static
+../Core/Src/main.c:71:13:MotorA_Stop	8	static
+../Core/Src/main.c:79:13:MotorB_Adelante	16	static
+../Core/Src/main.c:86:13:MotorB_Atras	16	static
+../Core/Src/main.c:93:13:MotorB_Stop	8	static
+../Core/Src/main.c:106:5:main	8	static
+../Core/Src/main.c:158:6:SystemClock_Config	72	static
+../Core/Src/main.c:188:13:MX_TIM2_Init	48	static
+../Core/Src/main.c:220:13:MX_TIM3_Init	48	static
+../Core/Src/main.c:252:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:276:6:Error_Handler	4	static,ignoring_inline_asm
