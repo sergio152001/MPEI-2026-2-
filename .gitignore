@@ -1,0 +1,8 @@
+*:Zone.Identifier
+Debug/
+*.o
+*.elf
+*.map
+*.su
+*.cyclo
+*.d
